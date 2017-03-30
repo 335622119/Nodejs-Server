@@ -1,6 +1,8 @@
 {
-  "name": "realtime-server",
-  "version": "0.0.1",
-  "description": "my first realtime server",
-  "dependencies": {}
+   "name": "node-demo",
+   "version": "0.0.1",
+   "private": true,
+   "dependencies": {
+     "express": "^4.11.0"
+   }
 }
